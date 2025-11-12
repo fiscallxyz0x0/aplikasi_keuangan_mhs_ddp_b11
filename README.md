@@ -6,7 +6,11 @@ Setiap transaksi (pemasukan/pengeluaran) diklasifikasikan ke dalam pos anggaran,
 sehingga mahasiswa dapat membandingkan antara anggaran yang direncanakan
 (budget) dan pengeluaran aktual (realisasi).
 
+
 Kelompok B11 1B-D4: 
-Elang Permadi Lau (251524042)\n
-Ghaisan Khoirul Badruzaman (251524048)\n
-Hafiz Fauzan Syafrudin (251524049)\n
+
+Elang Permadi Lau (251524042)
+
+Ghaisan Khoirul Badruzaman (251524048)
+
+Hafiz Fauzan Syafrudin (251524049)
