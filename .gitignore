@@ -54,5 +54,6 @@ dkms.conf
 # debug information files
 *.dwo
 
-# Cmake Build
+# Hafiz's personal ignore
 build/
+/.zed/
