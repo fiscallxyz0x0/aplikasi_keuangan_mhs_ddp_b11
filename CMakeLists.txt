@@ -14,4 +14,4 @@ include_directories(${PROJECT_SOURCE_DIR}/include)
 file(GLOB SRC_FILES ${PROJECT_SOURCE_DIR}/src/*.c)
 
 # Executable
-add_executable(aplikasi_keuangan ${SRC_FILES})
+add_executable(aplikasi_keuangan_mhs_ddp_b11 ${SRC_FILES})
