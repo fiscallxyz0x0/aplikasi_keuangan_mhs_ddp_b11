@@ -57,3 +57,4 @@ dkms.conf
 # Hafiz's personal ignore
 build/
 /.zed/
+.json
